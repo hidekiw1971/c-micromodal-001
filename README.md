@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="2083" alt="image" src="https://github.com/hidekiw1971/c-micromodal-001/assets/99580997/3b12b49b-efc9-4df5-ab8d-d80a8df465d3">
 
 # compornent（共通部品）
 - 説明
